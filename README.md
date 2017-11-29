@@ -15,7 +15,4 @@ we don't need to input labelled data such as we've done in the Auto-answer analy
 
 # Contents of this repo
 
-The Clustering Example notebook runs through an example of Clustering using data from two news websites and explores clustering to highlight the value of clustering and give insight as to
-how clustering could be used within a Customer Support environment.
-
-Future work will hopefully involve notebooks using Xero data.
+The Clustering Example notebook runs through an example of Clustering using data from two news websites and explores clustering to highlight the value of clustering and give insight as to how clustering could be used within a Customer Support environment.
