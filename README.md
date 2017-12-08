@@ -1,6 +1,6 @@
 # Clustering Email Responses To Identify Similar Responses
 
-Within an Email Support an environment, knowledge is stored in knowledge articles. These articles are typically created on an as-needed basis and then attached as emails come through. Due
+Within an Email Support an environment topics and resources are often stored within knowledge articles. These articles are typically created on an as-needed basis and then attached as emails come through. Due
 to way Knowledge Articles are created, there is a heavy importance on agents reporting and suggesting new articles. However, for agents there is a constant trade-off between doing cases
 and reporting what's needed. Consequently, we have a number of large KAs that have a high case count but are considered a 'catch-all'. From a reporting perspective, these KAs likely dominate
 reports despite haing little value.
@@ -15,4 +15,5 @@ we don't need to input labelled data such as we've done in the Auto-answer analy
 
 # Contents of this repo
 
-The Clustering Example notebook runs through an example of Clustering using data from two news websites and explores clustering to highlight the value of clustering and give insight as to how clustering could be used within a Customer Support environment.
+cluster-example.ipynb - Clustering using example data from Sklearn's dataset package 
+feature_request_clustering.ipynb - Clustering using actual case data to identify topics of cases sent that were assigned to a generic KA.
