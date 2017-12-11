@@ -15,5 +15,5 @@ we don't need to input labelled data such as we've done in the Auto-answer analy
 
 # Contents of this repo
 
-cluster-example.ipynb - Clustering using example data from Sklearn's dataset package 
-feature_request_clustering.ipynb - Clustering using actual case data to identify topics of cases sent that were assigned to a generic KA.
+* cluster-example.ipynb - Clustering using example data from Sklearn's dataset package 
+* feature_request_clustering.ipynb - Clustering using actual case data to identify topics of cases sent that were assigned to a generic KA.
